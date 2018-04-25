@@ -16,4 +16,5 @@ int main(void)
 
    UnityEnd();
    return 0;
+   return 0;
 }

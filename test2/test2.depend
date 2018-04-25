@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1524650174 source:c:\users\ferha\isisogram\src\isogram.c
+	"isogram.h"
+
+1524650174 c:\users\ferha\isisogram\src\isogram.h
+	<stdbool.h>
+
+1524650174 source:c:\users\ferha\isisogram\test\vendor\unity.c
+	"unity.h"
+	<stddef.h>
+	<string.h>
+
+1524650174 c:\users\ferha\isisogram\test\vendor\unity.h
+	"unity_internals.h"
+
+1524650174 c:\users\ferha\isisogram\test\vendor\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+
